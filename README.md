@@ -21,20 +21,20 @@
   <tr>
     <!-- LEFT: GIF -->
     <td align="center" width="50%">
-      <img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5pNWNqZjRrOWYyZmc0b2FheHJlOTRkejY3YnBpN3BidTMxeGhvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"/>
+      <img height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5pNWNqZjRrOWYyZmc0b2FheHJlOTRkejY3YnBpN3BidTMxeGhvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"/>
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/RodriWz/RodriWz/stats-output/stats.svg" height="160"/>
       <br/><br/>
       <img src="https://raw.githubusercontent.com/RodriWz/RodriWz/languages-output/languages.svg" height="160"/>
+      <div align="center">
+  <img src="https://streak-stats.demolab.com?user=RodriWz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RodriWz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/RodriWz/RodriWz/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
