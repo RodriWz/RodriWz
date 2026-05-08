@@ -1,22 +1,64 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/21rodr_)
+# 👋 Halo, Saya Rodri!
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<!-- Header Banner: Menggunakan capsule-render dengan tema neon/cyberpunk -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=thicker&color=00d4ff&height=200&section=header&text=RodriWz&fontSize=90&theme=dark&fontAlignY=40&animation=twinkling" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RodriWz&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=RodriWz&theme=neon&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriWz&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RodriWz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodriWz&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Visitor Counter" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RodriWz&icon=4&color=8)](https://visitcount.itsvg.in)
+
+### 🚀 Tentang Saya
+<!-- Bagian Bio Singkat (Generik) - Silakan edit sesuai keinginan Anda di bawah -->
+Seorang mahasiswa IT dan pengembang antusias yang fokus pada pembuatan solusi digital yang efisien dan menarik. Saya senang mempelajari teknologi baru dan berkontribusi pada proyek open-source.
+
+- 🎓 Saat ini sedang fokus pada pengembangan Web dan Mobile.
+- 💻 Menguasai beberapa framework modern untuk frontend.
+- 🎯 Selalu terbuka untuk kolaborasi pada proyek menarik.
+- ⚡ Fun fact: Saya menikmati bermain game strategi dan simulasi olahraga.
+
+---
+
+### 🛠️ Tech Stack
+<!-- Menampilkan badge yang rapi untuk teknologi yang dikuasai -->
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<!-- Menggunakan tema 'tokyonight' untuk kesan Cyberpunk/Neon -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodriWz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriWz&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriWz&theme=tokyonight" />
+</p>
+
+---
+
+### 📱 Mari Terhubung
+<!-- Link sosial media dengan badge -->
+<p align="left">
+  <a href="https://instagram.com/21rodr_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep coding, keep learning."</i>
+</p>
