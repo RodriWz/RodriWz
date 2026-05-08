@@ -33,6 +33,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RodriWz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/RodriWz/RodriWz/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+---
+
+
 <!-- PACMAN SECTION TITLE -->
 <h3 align="center">🎮 Contribution Activity</h3>
 
